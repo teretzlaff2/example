@@ -1,4 +1,6 @@
-    import java.util.Scanner; 
+     package org;
+
+     import java.util.Scanner; 
  
      public class Comparison { 
       
